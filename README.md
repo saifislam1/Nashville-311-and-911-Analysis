@@ -5,10 +5,10 @@ Customer satisfaction (here residents or visitors ) is the key element  for any 
 
 Data Questions:
 
-1.Does this data relates to one or more of the Mayor’s priority areas? For example transportation, economic growth.
-2.Whats the trend of the requests /complaints, are those seasonal and has a similar pattern based on the geographic location?
-3.Time to solve any complaints(Responsiveness),efficiency in handling customer requests/complaints(Based on  types).
-4. Any recommendation to improve the service level and customer experience.
+1.Does this data relates to one or more of the Mayor’s priority areas? For example transportation, economic growth.<br/>
+2.Whats the trend of the requests /complaints, are those seasonal and has a similar pattern based on the geographic location?<br/>
+3.Time to solve any complaints(Responsiveness),efficiency in handling customer requests/complaints(Based on  types).<br/>
+4. Any recommendation to improve the service level and customer experience.<br/>
 5.Any actionable insights derived from in depth exploratory data analysis.
 
 Data Source :
