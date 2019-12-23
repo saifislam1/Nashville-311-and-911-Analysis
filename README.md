@@ -1,4 +1,4 @@
-# Nashville-311-and-911-Analysis
+# Nashville-311-and-Emergency hotlines (911 & 615-862-8600)-Analysis
 My project will focus on the dataset provided by metro Nashville about service requests to hubnashville which is a comprehensive customer service system for residents and visitors and 911/615-862-8600 calls. An exploratory data analysis will be conducted to identify priority areas, trends, efficiency in handling customer complaints/requests etc. 
 
 Customer satisfaction (here residents or visitors ) is the key element  for any developing city like Nashville. According to forbes Nashville was in 17thplace in terms of growth rate , in 2018 it secured the number 7th position in the race  of fastest growing cities in the US, hence it is important to have satisfied inhabitants for the sake of economic developments.My analysis  will focus on identifying the reasons and trend of those complaints
