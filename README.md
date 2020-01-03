@@ -16,5 +16,13 @@ Data Source :
 911 : https://data.nashville.gov/Police/Metro-Nashville-Davidson-County-Calls-For-Service-/994x-46a2 (calls for service received by Nashville’s Emergency Communications Center (ECC) at 911 and 615-862-8600)
 
 
+[Emergency hotlines analaysis (911 and others)](https://app.powerbi.com/groups/me/reports/a9d912db-d3c3-4edc-85e1-650419ff8526/ReportSection4e16d5981a2ef38405f4) 
+
+[311 - Hubnashville Dashboard ](https://app.powerbi.com/groups/me/reports/30f93440-9522-417c-a976-da563900186b/ReportSection525937e4395bc4052c37)
+
+[911-Precinctwise](https://app.powerbi.com/groups/me/reports/8fe76695-014a-4d1f-8313-036fbbcfe73c/ReportSection)
+
+
+
 Technology used : Python(Jupyter Notebook), Power BI (DAX), Excel (Pivot Tables)
 
