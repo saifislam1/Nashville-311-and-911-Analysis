@@ -13,7 +13,7 @@ Data Source :
 311 : https://data.nashville.gov/Public-Services/hubNashville-311-Service-Requests/7qhx-rexh <br/>
 911 : https://data.nashville.gov/Police/Metro-Nashville-Davidson-County-Calls-For-Service-/994x-46a2 (calls for service received by Nashville’s Emergency Communications Center (ECC) at 911 and 615-862-8600)<br/>
 
-# Linkes to my Power BI dashboards are as folllows  : <br/>
+# Linkes to my Power BI dashboards are as follows  : <br/>
 
 
 [Emergency hotlines analaysis (911 and others)](https://app.powerbi.com/groups/me/reports/a9d912db-d3c3-4edc-85e1-650419ff8526/ReportSection4e16d5981a2ef38405f4) 
