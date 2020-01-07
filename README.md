@@ -16,13 +16,13 @@ Data Source :
 # Linkes to my Power BI dashboards are as follows  : <br/>
 
 
-[Emergency hotlines analaysis (911 and others)](https://app.powerbi.com/groups/me/reports/a9d912db-d3c3-4edc-85e1-650419ff8526/ReportSection4e16d5981a2ef38405f4) 
+[Emergency hotlines analaysis (911 and others)](https://app.powerbi.com/groups/me/reports/a9d912db-d3c3-4edc-85e1-650419ff8526/ReportSection4e16d5981a2ef38405f4) <br/>
 
-[311 - Hubnashville Dashboard ](https://app.powerbi.com/groups/me/reports/30f93440-9522-417c-a976-da563900186b/ReportSection525937e4395bc4052c37)
+[311 - Hubnashville Dashboard ](https://app.powerbi.com/groups/me/reports/30f93440-9522-417c-a976-da563900186b/ReportSection525937e4395bc4052c37) <br/>
 
-[911-Precinctwise](https://app.powerbi.com/groups/me/reports/8fe76695-014a-4d1f-8313-036fbbcfe73c/ReportSection)
+[911-Precinctwise](https://app.powerbi.com/groups/me/reports/8fe76695-014a-4d1f-8313-036fbbcfe73c/ReportSection) <br/>
 
-
+[911 - Handling time(911)](https://app.powerbi.com/groups/me/reports/b6f7ebc3-bb73-4475-8202-f90a8f0262df/ReportSection)<br/>
 
 Technology used : Python(Jupyter Notebook), Power BI (DAX), Excel (Pivot Tables)
 
